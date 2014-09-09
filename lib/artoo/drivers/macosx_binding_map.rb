@@ -1,4 +1,18 @@
 BINDING_MAP = {
+  :ps2_dancemat => {
+    :button_map => {
+      0 => :x,
+      1 => :circle,
+      2 => :triangle,
+      3 => :square,
+      4 => :start,
+      5 => :select,
+      6 => :up,
+      7 => :down,
+      8 => :left,
+      9 => :right
+    }
+  },
   :ps3 => {
     :button_map => {
       0 => :select,
